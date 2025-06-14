@@ -111,7 +111,7 @@ used-car-analysis/
 ## 👨‍💻 Author
 
 **D. Lalith Kumar**
-B.Tech CSE (AI & ML), VIT-AP University
+B.Tech CSE (AI & ML)
 
 ---
 
